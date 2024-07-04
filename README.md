@@ -6,6 +6,7 @@ Interstitial lung disease (ILD) is a collection of pulmonary adventitious condit
 ![block_diag_ILD_updated (1)](https://github.com/rsarka34/ILDNet/assets/89518952/d52a1240-6bf8-44af-a96f-3ecb194378d1)
 # Results
 <img width="639" alt="Screenshot 2024-07-04 at 8 02 55 PM" src="https://github.com/rsarka34/ILDNet/assets/89518952/8215d3f8-b09c-45b7-b1e4-fe0459c3f756">
+
 Visualization of the feature maps extracted from the sinc-convolution layer, first residual block, and second residual block of our proposed ILDNet for healthy RS (a-c) and ILD-affected RS (d-f).
 
 
